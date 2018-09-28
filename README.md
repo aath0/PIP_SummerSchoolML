@@ -1,4 +1,6 @@
 # PIP_SummerSchoolML
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aath0/PIP_SummerSchoolML/master)
+
 Notebooks for the [PIP Summer school on Machine Learning](http://www.pip.uni-bremen.de/news/pip-summer-school-2018/), Bremen Germany.
 
 ## Machine learning techniques for Neuroscience
