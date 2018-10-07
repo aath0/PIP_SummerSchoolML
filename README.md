@@ -1,4 +1,4 @@
-# PIP_SummerSchoolML
+# Summer School for Machine Learning, University of Bremen, Germany, 2018
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aath0/PIP_SummerSchoolML/master)
 
 Welcome! Here you can find notebooks for the [PIP Summer school on Machine Learning](http://www.pip.uni-bremen.de/news/pip-summer-school-2018/), taught at the University of Bremen, Germany.
